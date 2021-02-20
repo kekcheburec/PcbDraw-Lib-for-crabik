@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.81844443mm"
+   height="0.76456392mm"
+   viewBox="0 0 2.9 2.7090847"
+   id="svg4138"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="QFN-32.svg">
+  <defs
+     id="defs4140" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254835"
+     inkscape:cx="4.2931489"
+     inkscape:cy="-0.54051646"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg4138"
+     showgrid="false"
+     inkscape:window-width="956"
+     inkscape:window-height="1016"
+     inkscape:window-x="960"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="pin"
+     transform="translate(1.45,-1051.0077)" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1048.4677)"
+     id="g11891" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1045.9277)"
+     id="g11897" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1043.3877)"
+     id="g11903" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1040.8477)"
+     id="g11909">
+    <g
+       id="g856"
+       transform="matrix(0.14827602,0,0,-0.14827602,-0.42367864,1196.837)">
+      <rect
+         class="cls-15"
+         x="-16.405697"
+         y="1024.2651"
+         width="34.774673"
+         height="34.774673"
+         id="rect643"
+         style="fill:#242424;stroke-width:1.24998832" />
+      <circle
+         class="cls-21"
+         cx="-14.193217"
+         cy="1056.8835"
+         r="0.91124141"
+         id="circle645"
+         style="fill:#d2d1d3;stroke-width:1.24998832" />
+    </g>
+  </g>
+  <rect
+     style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98315364;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="origin"
+     width="1"
+     height="1.0003124"
+     x="1.5787723"
+     y="-1.1615624"
+     transform="rotate(90)" />
+</svg>

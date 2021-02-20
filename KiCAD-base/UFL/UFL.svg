@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.81844443mm"
+   height="0.76456392mm"
+   viewBox="0 0 2.9 2.7090847"
+   id="svg4138"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="UFL.svg">
+  <defs
+     id="defs4140" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="1.2168509"
+     inkscape:cy="1.632699"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg4138"
+     showgrid="false"
+     inkscape:window-width="956"
+     inkscape:window-height="1016"
+     inkscape:window-x="960"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="pin"
+     transform="translate(1.45,-1051.0077)" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1048.4677)"
+     id="g11891" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1045.9277)"
+     id="g11897" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1043.3877)"
+     id="g11903" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     transform="translate(1.45,-1040.8477)"
+     id="g11909" />
+  <rect
+     style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98315364;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="origin"
+     width="1"
+     height="1.0003124"
+     x="1.7090847"
+     y="-1.0003124"
+     transform="rotate(90)" />
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:0.99297857;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     id="UFL"
+     transform="matrix(-0.03025343,0,0,-0.03044872,3.3218979,6.473508)">
+    <polygon
+       style="fill:#cccccc;stroke-width:0.99297857"
+       id="polygon81"
+       points="93,134 28,134 28,99 93,99 " />
+    <polygon
+       style="fill:#e5e5e5;stroke-width:0.99297857"
+       id="polygon83"
+       points="30,134 28,134 28,99 30,99 " />
+    <polygon
+       style="fill:#cccccc;stroke-width:0.99297857"
+       id="polygon85"
+       points="92,216 27,216 27,181 92,181 " />
+    <polygon
+       style="fill:#e5e5e5;stroke-width:0.99297857"
+       id="polygon87"
+       points="30,216 27,216 27,181 30,181 " />
+    <polygon
+       style="fill:#cccccc;stroke-width:0.99297857"
+       id="polygon89"
+       points="116,170 93,170 93,145 116,145 " />
+    <path
+       style="fill:#e5e5e5;stroke:#8c8c8c;stroke-width:2.97893572"
+       inkscape:connector-curvature="0"
+       id="path91"
+       d="m 107,117 v 80 c 0,4 -3,7 -8,7 H 21 c -4,0 -8,-3 -8,-7 v -80 c 0,-4 4,-7 8,-7 h 78 c 5,0 8,3 8,7 z" />
+    <path
+       style="fill:#e5e5e5;stroke:#8c8c8c;stroke-width:2.97893572"
+       inkscape:connector-curvature="0"
+       id="path93"
+       d="m 87,157 c 0,15 -12,28 -27,28 -15,0 -28,-13 -28,-28 0,-15 13,-27 28,-27 15,0 27,12 27,27 z" />
+    <path
+       style="fill:#cc9933;stroke-width:0.99297857"
+       inkscape:connector-curvature="0"
+       id="path95"
+       d="m 67,157 c 0,4 -3,7 -7,7 -4,0 -7,-3 -7,-7 0,-4 3,-7 7,-7 4,0 7,3 7,7 z" />
+  </g>
+</svg>

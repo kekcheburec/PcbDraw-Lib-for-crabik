@@ -14,8 +14,8 @@
    viewBox="0 0 3.0999998 5.16016"
    id="svg4138"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="MSOP-10.svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="MSOP-10_3x3mm_Pitch0.5mm.svg">
   <defs
      id="defs4140" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="90.509668"
-     inkscape:cx="0.85238774"
-     inkscape:cy="3.3508671"
+     inkscape:cx="-2.408499"
+     inkscape:cy="2.2011851"
      inkscape:document-units="px"
      inkscape:current-layer="g11909"
      showgrid="false"
-     inkscape:window-width="636"
-     inkscape:window-height="1056"
-     inkscape:window-x="476"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4143">
     <rdf:RDF>
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,26 +74,26 @@
      transform="translate(1.55,-1039.6221)"
      id="g11909">
     <g
-       id="g6686">
+       id="g920">
+      <rect
+         transform="rotate(90)"
+         ry="0.140625"
+         rx="0.140625"
+         y="-1.5239773"
+         x="1040.6782"
+         height="3.0479999"
+         width="3.0479999"
+         id="rect6409"
+         style="opacity:1;fill:#242424;fill-opacity:1;stroke:#141414;stroke-width:0.052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         transform="rotate(90)"
+         r="0.10864486"
+         style="opacity:1;fill:#99abb0;fill-opacity:1;stroke:#99abb0;stroke-width:0.03271028;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6561"
+         cx="1041.0022"
+         cy="1.2062473" />
       <g
-         id="g6603">
-        <rect
-           style="opacity:1;fill:#141414;fill-opacity:1;stroke:#141414;stroke-width:0.052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect6409"
-           width="3.0479999"
-           height="3.0479999"
-           x="-1.524"
-           y="1040.6782"
-           rx="0.140625"
-           ry="0.140625" />
-        <circle
-           cy="1043.4084"
-           cx="-1.1999998"
-           id="circle6561"
-           style="opacity:1;fill:#554747;fill-opacity:0.89548023;stroke:#99abb0;stroke-width:0.03271028;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           r="0.10864486" />
-      </g>
-      <g
+         transform="rotate(90,-1.1920944e-7,1042.2022)"
          id="g6637">
         <g
            id="g6609"
@@ -177,7 +177,7 @@
         </g>
       </g>
       <g
-         transform="matrix(1,0,0,-1,0,2084.4044)"
+         transform="matrix(0,1,1,0,-1042.2022,1042.2022)"
          id="g6654">
         <g
            transform="translate(1.9062502,1.2163934)"
@@ -267,6 +267,7 @@
      id="origin"
      width="1"
      height="1"
-     x="1.5500001"
-     y="2.5800426" />
+     x="2.5800426"
+     y="-1.6121875"
+     transform="rotate(90)" />
 </svg>
